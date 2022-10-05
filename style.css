@@ -1,0 +1,77 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #222;
+  }
+  
+  #projects {
+    background-color: #273036;
+    color: cadetblue;
+  }
+  
+  .dor {
+    display: flex;
+    justify-content: center;
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
+  
+  .iya {
+    padding-bottom: 1%;
+    font-size: 20px;
+  }
+  
+  .futer {
+    font-weight: 900;
+  }
+  
+  .card-body > a {
+    /* color: white; */
+    color: chartreuse;
+    text-decoration: none;
+  }
+  
+  .card-text:hover {
+    font-size: 17px;
+    font-weight: bold;
+  }
+  
+  .card-text-diff:hover {
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  .outer {
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .dor1 {
+    text-align: center;
+    width: 150px;
+    padding: 1%;
+    background-color: chocolate;
+    border-radius: 8px;
+  }
+  
+  .dor1:hover {
+    background-color: coral;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition: 2s;
+  }
+  
+  .inner {
+    font-weight: 600;
+    color: cornflowerblue;
+  }
+  
+  .inner:hover {
+    font-size: 16px;
+    font-weight: bold;
+    color: cornsilk;
+    transition: 0.5s;
+  }
+  
